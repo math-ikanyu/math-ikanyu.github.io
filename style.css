@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+  background-image:url("p0188_l.png");
+}
+img{
+  display:block;
+  margin:0 auto;
+}
+p{
+  margin:10pt auto;
+  text-align:center;
+}
